@@ -17,7 +17,7 @@ class WebprojectBottomNavigationAction extends HookConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     return active
         ? IconButton(
-            color: Colors.red,
+            color: const Color.fromRGBO(132, 0, 138, 1),
             onPressed: onTap,
             icon: Icon(
               icon,

@@ -1,5 +1,5 @@
-import 'package:app/bottom_navigation/webproject_bottom_navigation_action.dart';
-import 'package:app/bottom_navigation/webproject_bottom_navigation_bar.dart';
+import 'package:app/common/bottom_navigation/webproject_bottom_navigation_action.dart';
+import 'package:app/common/bottom_navigation/webproject_bottom_navigation_bar.dart';
 import 'package:app/pages/home_page.dart';
 import 'package:app/pages/me_page.dart';
 import 'package:app/pages/settings_page.dart';
